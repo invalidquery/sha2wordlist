@@ -2,7 +2,7 @@
 
 _sha2wordlist_ digests STDIN and output a SHA-256 checksum displayed as [PGP words](https://en.wikipedia.org/wiki/PGP_Words).
 
-## Linux Dependencies
+## Debian Dependencies
 
 Sha2wordlist relies on the [strlcat](https://linux.die.net/man/3/strlcat) utility function from BSD systems.
 Debian-based systems will require the installation of the libbsd-dev package.
